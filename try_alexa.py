@@ -1,9 +1,7 @@
 import json
 import request
-import time
-import unidecode
 from flask import Flask
-from flask_ask import Ask, statement, question, session
+from flask_ask import Ask, statement, question
 from weather_forecast import get_24h_forecast 
 
 app = Flask(__name__)
