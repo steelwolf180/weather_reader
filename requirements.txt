@@ -23,7 +23,7 @@ pycparser==2.18
 pylint==1.9.1
 pyOpenSSL==17.0.0
 python-dateutil==2.7.3
-PyYAML==3.12
+PyYAML==5.4
 query-string==1.0.2
 request==1.0.2
 requests==2.18.4
